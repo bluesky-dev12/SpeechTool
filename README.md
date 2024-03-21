@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/BlueSkyWestSide/SpeechTool">
-    <img src="[https://github.com/bluesky-dev12/SpeechTool/blob/main/logo.png](https://github.com/bluesky-dev12/SpeechTool/blob/main/Logo.png)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/bluesky-dev12/SpeechTool/blob/main/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SpeechTool For Carbon</h3>
