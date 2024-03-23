@@ -1,0 +1,6 @@
+
+*.pdb
+*.dll
+SpeechTool/bin/Debug/net8.0/SpeechTool.deps.json
+SpeechTool/bin/Debug/net8.0/SpeechTool.exe
+SpeechTool/bin/Debug/net8.0/SpeechTool.runtimeconfig.json
